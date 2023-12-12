@@ -1,6 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
 __pycache__
-datasets_hw1
 venv
 .idea
